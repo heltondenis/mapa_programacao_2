@@ -15,8 +15,7 @@ public class Mapa_programacao_2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Calculos c=new Calculos();
-        System.out.println(">>>>"+c.calculadora("5/5"));
+
     }
     
 }
